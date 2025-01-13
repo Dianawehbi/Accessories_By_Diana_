@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Men",
+        "image": "mensgift.jpg",
+        "altText": "Men"
+    },
+    {
+        "id": 2,
+        "name": "Box",
+        "image": "box.jpg",
+        "altText": "Box"
+    }
+]

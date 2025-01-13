@@ -1,0 +1,168 @@
+[
+    {
+        "name": "Perfume",
+        "price": "$6.50",
+        "image": [
+            "curren_watch.jpg",
+            "box.jpg"
+        ],
+        "brand": "V.V.Love",
+        "description": "Eau de Toilette 100 ml",
+        "category": [
+            "Men",
+            "Box"
+        ]
+    },
+    {
+        "name": "Watch",
+        "price": "$22.00",
+        "image": "curren_watch.jpg",
+        "brand": "Curren",
+        "description": "Stylish wristwatch for all occasions",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Deodorant",
+        "price": "$40.00",
+        "image": "product3.jpg",
+        "brand": "Rexona",
+        "description": "Long-lasting deodorant for daily freshness",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Hat",
+        "price": "$20.00",
+        "image": "product1.jpg",
+        "brand": "Brand A",
+        "description": "Stylish hat for men and women",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Belt",
+        "price": "$30.00",
+        "image": "product2.jpg",
+        "brand": "Brand B",
+        "description": "Premium leather belt",
+        "category": [
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Handbag",
+        "price": "$40.00",
+        "image": "product3.jpg",
+        "brand": "Brand C",
+        "description": "Elegant handbag for everyday use",
+        "category": [
+            "Accessories",
+            "Fashion"
+        ]
+    },
+    {
+        "name": "Necklace",
+        "price": "$30.00",
+        "image": "product2.jpg",
+        "brand": "Brand B",
+        "description": "Beautiful necklace for special occasions",
+        "category": [
+            "Jewelry"
+        ]
+    },
+    {
+        "name": "Bracelet",
+        "price": "$40.00",
+        "image": "product3.jpg",
+        "brand": "Brand C",
+        "description": "Charming bracelet to enhance your style",
+        "category": [
+            "Jewelry"
+        ]
+    },
+    {
+        "name": "Gel",
+        "price": "$40.00",
+        "image": "product3.jpg",
+        "brand": "Brand C",
+        "description": "Hair styling gel for a perfect look",
+        "category": [
+            "Personal Care"
+        ]
+    },
+    {
+        "name": "Spray",
+        "price": "$40.00",
+        "image": "product3.jpg",
+        "brand": "Brand C",
+        "description": "Refreshing body spray",
+        "category": [
+            "Personal Care"
+        ]
+    },
+    {
+        "name": "Scarf",
+        "price": "$40.00",
+        "image": "product3.jpg",
+        "brand": "Brand C",
+        "description": "Warm and stylish scarf",
+        "category": [
+            "Accessories",
+            "Fashion"
+        ]
+    },
+    {
+        "name": "Sunglasses",
+        "price": "$40.00",
+        "image": "product3.jpg",
+        "brand": "Brand C",
+        "description": "Trendy sunglasses to protect your eyes",
+        "category": [
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Men's Set",
+        "price": "$40.00",
+        "image": "product3.jpg",
+        "brand": "Brand C",
+        "description": "Complete grooming set for men",
+        "category": [
+            "Gifts"
+        ]
+    },
+    {
+        "name": "Vaseline",
+        "price": "$40.00",
+        "image": "product3.jpg",
+        "brand": "Brand C",
+        "description": "Moisturizing Vaseline for skin care",
+        "category": [
+            "Personal Care"
+        ]
+    },
+    {
+        "name": "Roll-On Deodorant",
+        "price": "$40.00",
+        "image": "product3.jpg",
+        "brand": "Brand C",
+        "description": "Convenient roll-on deodorant",
+        "category": [
+            "Personal Care"
+        ]
+    },
+    {
+        "name": "Ring",
+        "price": "$40.00",
+        "image": "product3.jpg",
+        "brand": "Brand C",
+        "description": "Elegant ring for special moments",
+        "category": [
+            "Jewelry"
+        ]
+    }
+]
