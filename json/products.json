@@ -6,7 +6,6 @@
             "curren_watch.jpg",
             "box.jpg"
         ],
-        "brand": "V.V.Love",
         "description": "Eau de Toilette 100 ml",
         "category": [
             "Men",
@@ -17,7 +16,6 @@
         "name": "Watch",
         "price": "$22.00",
         "image": "curren_watch.jpg",
-        "brand": "Curren",
         "description": "Stylish wristwatch for all occasions",
         "category": [
             "Men",
@@ -28,7 +26,6 @@
         "name": "Deodorant",
         "price": "$40.00",
         "image": "product3.jpg",
-        "brand": "Rexona",
         "description": "Long-lasting deodorant for daily freshness",
         "category": [
             "Men"
@@ -38,7 +35,6 @@
         "name": "Hat",
         "price": "$20.00",
         "image": "product1.jpg",
-        "brand": "Brand A",
         "description": "Stylish hat for men and women",
         "category": [
             "Men"
