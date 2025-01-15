@@ -358,9 +358,9 @@
         ]
     },
     {
-        "name": "Moisturizing Vaseline",
-        "price": "$4.50",
-        "image": "vaseline.jpg",
+        "name": "Moisturizing Vaseline 250 ml",
+        "price": "$3.75",
+        "image": "vasseline_250ml.webp",
         "description": "Essential petroleum jelly for smooth and hydrated skin.",
         "category": [
             "Men",
@@ -381,6 +381,26 @@
         "price": "$4.00",
         "image": "wallet_4.jpg",
         "description": "Affordable small handbag.",
+        "category": [
+            "Men",
+            "Unisex"
+        ]
+    },
+    {
+        "name": "Moisturizing Vaseline  100ml",
+        "price": "$2.50",
+        "image": "vasseline_250ml.webp",
+        "description": "Essential petroleum jelly for smooth and hydrated skin.",
+        "category": [
+            "Men",
+            "Unisex"
+        ]
+    },
+    {
+        "name": "Moisturizing Vaseline  50ml",
+        "price": "$1.50",
+        "image": "vasseline_250ml.webp",
+        "description": "Essential petroleum jelly for smooth and hydrated skin.",
         "category": [
             "Men",
             "Unisex"
