@@ -1,6 +1,6 @@
 [
     {
-        "name": "Necklace",
+        "name": "Silver Necklace",
         "price": "$3.88",
         "image": "ss_necklace_trend.jpg",
         "description": "Trendy silver necklace.",
@@ -10,7 +10,7 @@
         ]
     },
     {
-        "name": "Perfume",
+        "name": "Refillable Perfume",
         "price": "$3.33",
         "image": "perfume_te3beyi_300.jpg",
         "description": "Heavy-duty refillable perfume.",
@@ -28,7 +28,7 @@
         ]
     },
     {
-        "name": "Watch",
+        "name": "Curren Watch",
         "price": "$22.00",
         "image": "curren_watch.jpg",
         "description": "Curren, stylish wristwatch for all occasions.",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "name": "Perfume",
+        "name": "Affordable Perfume",
         "price": "$4.00",
         "image": "perfume_4.jpg",
         "description": "Affordable Eau de Toilette 100 ml.",
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "name": "Silver Keychain",
+        "name": "Elegant Silver Keychain",
         "price": "$2.00",
         "image": "silver_keychain.jpg",
         "description": "Elegant silver keychain.",
@@ -64,7 +64,7 @@
         ]
     },
     {
-        "name": "Belt",
+        "name": "Leather Belt",
         "price": "$7.00",
         "image": "leather_belt_7.jpg",
         "description": "Brown and black leather belt for formal wear.",
@@ -73,7 +73,7 @@
         ]
     },
     {
-        "name": "Perfume",
+        "name": "Medium Refillable Perfume",
         "price": "$2.22",
         "image": "perfume_te3beyi_200.jpg",
         "description": "Medium refillable perfume.",
@@ -82,7 +82,7 @@
         ]
     },
     {
-        "name": "Silver Keychain with Writing",
+        "name": "Silver Keychain with Custom Writing",
         "price": "$4.50",
         "image": "silver_keychain.jpg",
         "description": "Silver keychain with customizable writing.",
@@ -91,7 +91,7 @@
         ]
     },
     {
-        "name": "Bracelet Set",
+        "name": "Bracelet Set of 3",
         "price": "$2.00",
         "image": "bracelet_set_of3.jpg",
         "description": "Set of 3 bracelets.",
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "name": "Fared Fire",
+        "name": "Gun-Shaped Lighter",
         "price": "$7.60",
         "image": "fared_fire.jpg",
         "description": "Gun-shaped lighter for smokers.",
@@ -118,7 +118,7 @@
         ]
     },
     {
-        "name": "Fire",
+        "name": "Clipper Lighter",
         "price": "$0.88",
         "image": "clipper.jpg",
         "description": "Clipper reusable lighter.",
@@ -136,7 +136,7 @@
         ]
     },
     {
-        "name": "Wallet Box",
+        "name": "Wallet Storage Box",
         "price": "$0.55",
         "image": "empty_wallet_box.jpg",
         "description": "Durable and sleek storage box for wallets.",
@@ -154,7 +154,7 @@
         ]
     },
     {
-        "name": "Sunglasses",
+        "name": "Premium Sunglasses",
         "price": "$6.50",
         "image": "rayban_sunglasses.jpg",
         "description": "Premium sunglasses with UV protection.",
@@ -182,7 +182,7 @@
         ]
     },
     {
-        "name": "Belt",
+        "name": "Classic Leather Belt",
         "price": "$6.00",
         "image": "leather_belt_6.jpg",
         "description": "Classic black leather belt.",
@@ -191,20 +191,20 @@
         ]
     },
     {
-        "name": "Handbag",
+        "name": "cK Handbag",
         "price": "$8.87",
         "image": "hand_bag_ck.jpg",
-        "description": "cK black handbag for everyday use.",
+        "description": "Stylish black handbag for everyday use.",
         "category": [
             "Men",
             "Unisex"
         ]
     },
     {
-        "name": "Wallet",
+        "name": "Black Wallet",
         "price": "$6.00",
         "image": "wallet_6.jpg",
-        "description": "Black good quality wallet.",
+        "description": "Good-quality black wallet.",
         "category": [
             "Men",
             "Unisex"
@@ -221,53 +221,53 @@
         ]
     },
     {
-        "name": "Necklace",
+        "name": "Simple Silver Necklace",
         "price": "$3.88",
         "image": "necklace_silver_men.jpg",
-        "description": "Simple silver necklace.",
+        "description": "Elegant silver necklace.",
         "category": [
             "Men",
             "Unisex"
         ]
     },
     {
-        "name": "Leather Bracelet",
+        "name": "Layered Leather Bracelet",
         "price": "$3.50",
         "image": "leather_2layers.jpg",
-        "description": "Leather bracelet for men.",
+        "description": "Stylish leather bracelet for men.",
         "category": [
             "Men"
         ]
     },
     {
-        "name": "Gel",
+        "name": "Strong Hold Hair Gel",
         "price": "$1.00",
         "image": "hair_gel_elsada.jpg",
-        "description": "Strong hold hair gel.",
+        "description": "Reliable strong hold hair gel.",
         "category": [
             "Men"
         ]
     },
     {
-        "name": "Hair Spray",
+        "name": "Long-Lasting Hair Spray",
         "price": "$3.00",
         "image": "hair_spray.jpg",
-        "description": "Long-lasting hair spray.",
+        "description": "Provides a lasting hold for hairstyles.",
         "category": [
             "Men"
         ]
     },
     {
-        "name": "Scarf",
+        "name": "Wool Winter Scarf",
         "price": "$4.30",
         "image": "scarf_mens.jpg",
-        "description": "Warm wool scarf for winter.",
+        "description": "Warm and stylish scarf for winter.",
         "category": [
             "Men"
         ]
     },
     {
-        "name": "Sunglasses",
+        "name": "Everyday Sunglasses",
         "price": "$3.00",
         "image": "sunglasses_normal.jpg",
         "description": "Stylish sunglasses for sunny days.",
@@ -277,46 +277,46 @@
         ]
     },
     {
-        "name": "Set",
+        "name": "Keychain and Pen Set",
         "price": "$4.00",
         "image": "keychain_set.jpg",
-        "description": "Set of 2 keychains and one pen.",
+        "description": "Set of 2 keychains and a pen.",
         "category": [
             "Men"
         ]
     },
     {
-        "name": "Body Spray Rexona",
+        "name": "Rexona Body Spray",
         "price": "$3.33",
         "image": "rexona_mens.jpg",
-        "description": "Long-lasting body spray deodorant.",
+        "description": "Long-lasting deodorant body spray.",
         "category": [
             "Men"
         ]
     },
     {
-        "name": "Ring",
+        "name": "Silver Men's Ring",
         "price": "$1.10",
         "image": "mens_ring.jpg",
-        "description": "Silver ring for men.",
+        "description": "Elegant silver ring for men.",
         "category": [
             "Men"
         ]
     },
     {
-        "name": "Watch",
+        "name": "Everyday Watch",
         "price": "$5.00",
         "image": "watch_medium.jpg",
-        "description": "Stylish everyday watch.",
+        "description": "Stylish watch for daily wear.",
         "category": [
             "Men"
         ]
     },
     {
-        "name": "Mug",
+        "name": "Black Stainless Steel Mug",
         "price": "$1.10",
         "image": "mug_stainless_steel.jpg",
-        "description": "Stainless steel black mug.",
+        "description": "Durable and sleek black mug.",
         "category": [
             "Men"
         ]
@@ -325,7 +325,7 @@
         "name": "Hair Grooming Brush",
         "price": "$1.00",
         "image": "hair_brushe.jpg",
-        "description": "Compact brush for everyday hair styling.",
+        "description": "Compact brush for daily styling.",
         "category": [
             "Men"
         ]
@@ -358,7 +358,7 @@
         ]
     },
     {
-        "name": "Moisturizing Vaseline 250 ml",
+        "name": "Moisturizing Vaseline (250 ml)",
         "price": "$3.75",
         "image": "vasseline_250ml.webp",
         "description": "Essential petroleum jelly for smooth and hydrated skin.",
@@ -371,23 +371,23 @@
         "name": "Classic Leather Bracelet",
         "price": "$2.22",
         "image": "classic_leather_bracelet.jpg",
-        "description": "Timeless leather bracelet for everyday wear.",
+        "description": "Timeless leather bracelet for daily wear.",
         "category": [
             "Men"
         ]
     },
     {
-        "name": "Wallet",
+        "name": "Affordable Small Wallet",
         "price": "$4.00",
         "image": "wallet_4.jpg",
-        "description": "Affordable small handbag.",
+        "description": "Compact and affordable wallet.",
         "category": [
             "Men",
             "Unisex"
         ]
     },
     {
-        "name": "Moisturizing Vaseline  100ml",
+        "name": "Moisturizing Vaseline (100 ml)",
         "price": "$2.50",
         "image": "vasseline_250ml.webp",
         "description": "Essential petroleum jelly for smooth and hydrated skin.",
@@ -397,7 +397,7 @@
         ]
     },
     {
-        "name": "Moisturizing Vaseline  50ml",
+        "name": "Moisturizing Vaseline (50 ml)",
         "price": "$1.50",
         "image": "vasseline_250ml.webp",
         "description": "Essential petroleum jelly for smooth and hydrated skin.",
