@@ -7,8 +7,8 @@
     },
     {
         "id": 2,
-        "name": "Box",
+        "name": "Package",
         "image": "box.jpg",
-        "altText": "Box"
+        "altText": "Package"
     }
 ]

@@ -1,165 +1,389 @@
 [
     {
-        "name": "Perfume",
-        "price": "$6.50",
-        "image": [
-            "curren_watch.jpg",
-            "box.jpg"
-        ],
-        "description": "Eau de Toilette 100 ml",
+        "name": "Necklace",
+        "price": "$3.88",
+        "image": "ss_necklace_trend.jpg",
+        "description": "Trendy silver necklace.",
         "category": [
             "Men",
-            "Box"
+            "Unisex"
+        ]
+    },
+    {
+        "name": "Perfume",
+        "price": "$3.33",
+        "image": "perfume_te3beyi_300.jpg",
+        "description": "Heavy-duty refillable perfume.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Stylish Hat",
+        "price": "$3.33",
+        "image": "hat_3colors.jpg",
+        "description": "Comfortable and fashionable hat for all occasions.",
+        "category": [
+            "Men"
         ]
     },
     {
         "name": "Watch",
         "price": "$22.00",
         "image": "curren_watch.jpg",
-        "description": "Stylish wristwatch for all occasions",
-        "category": [
-            "Men",
-            "Box"
-        ]
-    },
-    {
-        "name": "Deodorant",
-        "price": "$40.00",
-        "image": "product3.jpg",
-        "description": "Long-lasting deodorant for daily freshness",
+        "description": "Curren, stylish wristwatch for all occasions.",
         "category": [
             "Men"
         ]
     },
     {
-        "name": "Hat",
-        "price": "$20.00",
-        "image": "product1.jpg",
-        "description": "Stylish hat for men and women",
+        "name": "I'm the One Perfume",
+        "price": "$5.50",
+        "image": "iamtheoneperfume.jpg",
+        "description": "Unique and affordable 100 ml Eau de Toilette.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Perfume",
+        "price": "$4.00",
+        "image": "perfume_4.jpg",
+        "description": "Affordable Eau de Toilette 100 ml.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Silver Keychain",
+        "price": "$2.00",
+        "image": "silver_keychain.jpg",
+        "description": "Elegant silver keychain.",
         "category": [
             "Men"
         ]
     },
     {
         "name": "Belt",
-        "price": "$30.00",
-        "image": "product2.jpg",
-        "brand": "Brand B",
-        "description": "Premium leather belt",
+        "price": "$7.00",
+        "image": "leather_belt_7.jpg",
+        "description": "Brown and black leather belt for formal wear.",
         "category": [
-            "Accessories"
+            "Men"
         ]
     },
     {
-        "name": "Handbag",
-        "price": "$40.00",
-        "image": "product3.jpg",
-        "brand": "Brand C",
-        "description": "Elegant handbag for everyday use",
+        "name": "Perfume",
+        "price": "$2.22",
+        "image": "perfume_te3beyi_200.jpg",
+        "description": "Medium refillable perfume.",
         "category": [
-            "Accessories",
-            "Fashion"
+            "Men"
         ]
     },
     {
-        "name": "Necklace",
-        "price": "$30.00",
-        "image": "product2.jpg",
-        "brand": "Brand B",
-        "description": "Beautiful necklace for special occasions",
+        "name": "Silver Keychain with Writing",
+        "price": "$4.50",
+        "image": "silver_keychain.jpg",
+        "description": "Silver keychain with customizable writing.",
         "category": [
-            "Jewelry"
+            "Men"
         ]
     },
     {
-        "name": "Bracelet",
-        "price": "$40.00",
-        "image": "product3.jpg",
-        "brand": "Brand C",
-        "description": "Charming bracelet to enhance your style",
+        "name": "Bracelet Set",
+        "price": "$2.00",
+        "image": "bracelet_set_of3.jpg",
+        "description": "Set of 3 bracelets.",
         "category": [
-            "Jewelry"
+            "Men"
         ]
     },
     {
-        "name": "Gel",
-        "price": "$40.00",
-        "image": "product3.jpg",
-        "brand": "Brand C",
-        "description": "Hair styling gel for a perfect look",
+        "name": "Aqua Essence Eau de Toilette",
+        "price": "$6.50",
+        "image": "AquaGio_perfume.jpg",
+        "description": "Refreshing and affordable 100 ml fragrance.",
         "category": [
-            "Personal Care"
+            "Men"
         ]
     },
     {
-        "name": "Spray",
-        "price": "$40.00",
-        "image": "product3.jpg",
-        "brand": "Brand C",
-        "description": "Refreshing body spray",
+        "name": "Fared Fire",
+        "price": "$7.60",
+        "image": "fared_fire.jpg",
+        "description": "Gun-shaped lighter for smokers.",
         "category": [
-            "Personal Care"
+            "Men"
         ]
     },
     {
-        "name": "Scarf",
-        "price": "$40.00",
-        "image": "product3.jpg",
-        "brand": "Brand C",
-        "description": "Warm and stylish scarf",
+        "name": "Fire",
+        "price": "$0.88",
+        "image": "clipper.jpg",
+        "description": "Clipper reusable lighter.",
         "category": [
-            "Accessories",
-            "Fashion"
+            "Men"
+        ]
+    },
+    {
+        "name": "Heroic Scent Perfume",
+        "price": "$6.50",
+        "image": "bravo_hero_perfume.jpg",
+        "description": "Bold and captivating Eau de Toilette 100 ml.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Compact Wallet Box",
+        "price": "$0.55",
+        "image": "empty_wallet_box.jpg",
+        "description": "Durable and sleek storage box for wallets.",
+        "category": [
+            "Package"
+        ]
+    },
+    {
+        "name": "Watch Storage Box",
+        "price": "$1.00",
+        "image": "empty_watch_boxes.jpg",
+        "description": "Protective case for storing watches.",
+        "category": [
+            "Package"
         ]
     },
     {
         "name": "Sunglasses",
-        "price": "$40.00",
-        "image": "product3.jpg",
-        "brand": "Brand C",
-        "description": "Trendy sunglasses to protect your eyes",
+        "price": "$6.50",
+        "image": "rayban_sunglasses.jpg",
+        "description": "Premium sunglasses with UV protection.",
         "category": [
-            "Accessories"
+            "Men",
+            "Unisex"
         ]
     },
     {
-        "name": "Men's Set",
-        "price": "$40.00",
-        "image": "product3.jpg",
-        "brand": "Brand C",
-        "description": "Complete grooming set for men",
+        "name": "Sunglasses Pouch",
+        "price": "$0.78",
+        "image": "sunglasses_protector.jpg",
+        "description": "Lightweight pouch for keeping sunglasses scratch-free.",
         "category": [
-            "Gifts"
+            "Package"
         ]
     },
     {
-        "name": "Vaseline",
-        "price": "$40.00",
-        "image": "product3.jpg",
-        "brand": "Brand C",
-        "description": "Moisturizing Vaseline for skin care",
+        "name": "Gabriella Signature Perfume",
+        "price": "$6.00",
+        "image": "gabgirl_perfume.jpg",
+        "description": "Elegant and refined 100 ml fragrance.",
         "category": [
-            "Personal Care"
+            "Men"
         ]
     },
     {
-        "name": "Roll-On Deodorant",
-        "price": "$40.00",
-        "image": "product3.jpg",
-        "brand": "Brand C",
-        "description": "Convenient roll-on deodorant",
+        "name": "Belt",
+        "price": "$6.00",
+        "image": "leather_belt_6.jpg",
+        "description": "Classic black leather belt.",
         "category": [
-            "Personal Care"
+            "Men"
+        ]
+    },
+    {
+        "name": "Handbag",
+        "price": "$8.87",
+        "image": "hand_bag_ck.jpg",
+        "description": "cK black handbag for everyday use.",
+        "category": [
+            "Men",
+            "Unisex"
+        ]
+    },
+    {
+        "name": "Wallet",
+        "price": "$6.00",
+        "image": "wallet_6.jpg",
+        "description": "Black good quality wallet.",
+        "category": [
+            "Men",
+            "Unisex"
+        ]
+    },
+    {
+        "name": "Card Holder",
+        "price": "$1.10",
+        "image": "card_holder.jpg",
+        "description": "Compact wallet for cards.",
+        "category": [
+            "Men",
+            "Unisex"
+        ]
+    },
+    {
+        "name": "Necklace",
+        "price": "$3.88",
+        "image": "necklace_silver_men.jpg",
+        "description": "Simple silver necklace.",
+        "category": [
+            "Men",
+            "Unisex"
+        ]
+    },
+    {
+        "name": "Leather Bracelet",
+        "price": "$3.50",
+        "image": "leather_2layers.jpg",
+        "description": "Leather bracelet for men.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Gel",
+        "price": "$1.00",
+        "image": "hair_gel_elsada.jpg",
+        "description": "Strong hold hair gel.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Hair Spray",
+        "price": "$3.00",
+        "image": "hair_spray.jpg",
+        "description": "Long-lasting hair spray.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Scarf",
+        "price": "$4.30",
+        "image": "scarf_mens.jpg",
+        "description": "Warm wool scarf for winter.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Sunglasses",
+        "price": "$3.00",
+        "image": "sunglasses_normal.jpg",
+        "description": "Stylish sunglasses for sunny days.",
+        "category": [
+            "Men",
+            "Unisex"
+        ]
+    },
+    {
+        "name": "Set",
+        "price": "$4.00",
+        "image": "keychain_set.jpg",
+        "description": "Set of 2 keychains and one pen.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Body Spray Rexona",
+        "price": "$3.33",
+        "image": "rexona_mens.jpg",
+        "description": "Long-lasting body spray deodorant.",
+        "category": [
+            "Men"
         ]
     },
     {
         "name": "Ring",
-        "price": "$40.00",
-        "image": "product3.jpg",
-        "brand": "Brand C",
-        "description": "Elegant ring for special moments",
+        "price": "$1.10",
+        "image": "mens_ring.jpg",
+        "description": "Silver ring for men.",
         "category": [
-            "Jewelry"
+            "Men"
+        ]
+    },
+    {
+        "name": "Watch",
+        "price": "$5.00",
+        "image": "watch_medium.jpg",
+        "description": "Stylish everyday watch.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Mug",
+        "price": "$1.10",
+        "image": "mug_stainless_steel.jpg",
+        "description": "Stainless steel black mug.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Hair Grooming Brush",
+        "price": "$1.00",
+        "image": "hair_brushe.jpg",
+        "description": "Compact brush for everyday hair styling.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Stylish Beaded Keychain",
+        "price": "$2.25",
+        "image": "beads_keychain.jpg",
+        "description": "Trendy keychain with decorative beads.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Elegant Beaded Bracelet",
+        "price": "$2.00",
+        "image": "beads_bracelet_medium.jpg",
+        "description": "Chic bracelet made with high-quality beads.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Minimalist Beaded Bracelet",
+        "price": "$1.66",
+        "image": "bracelet_beads_1.75.jpg",
+        "description": "Simple and lightweight bracelet with beads.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Moisturizing Vaseline",
+        "price": "$4.50",
+        "image": "vaseline.jpg",
+        "description": "Essential petroleum jelly for smooth and hydrated skin.",
+        "category": [
+            "Men",
+            "Unisex"
+        ]
+    },
+    {
+        "name": "Classic Leather Bracelet",
+        "price": "$2.22",
+        "image": "classic_leather_bracelet.jpg",
+        "description": "Timeless leather bracelet for everyday wear.",
+        "category": [
+            "Men"
+        ]
+    },
+    {
+        "name": "Wallet",
+        "price": "$4.00",
+        "image": "wallet_4.jpg",
+        "description": "Affordable small handbag.",
+        "category": [
+            "Men",
+            "Unisex"
         ]
     }
 ]
