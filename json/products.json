@@ -127,15 +127,6 @@
         ]
     },
     {
-        "name": "Heroic Scent Perfume",
-        "price": "$6.50",
-        "image": "bravo_hero_perfume.jpg",
-        "description": "Bold and captivating Eau de Toilette 100 ml.",
-        "category": [
-            "Men"
-        ]
-    },
-    {
         "name": "Wallet Storage Box",
         "price": "$0.55",
         "image": "empty_wallet_box.jpg",
@@ -258,7 +249,7 @@
         ]
     },
     {
-        "name": "Wool Winter Scarf",
+        "name": "Scarf, Wool Winter",
         "price": "$4.30",
         "image": "scarf_mens.jpg",
         "description": "Warm and stylish scarf for winter.",
@@ -405,5 +396,5 @@
             "Men",
             "Unisex"
         ]
-   }
+    }
 ]
